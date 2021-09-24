@@ -1,0 +1,8 @@
+{
+  "name": "DocControl",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "70e87f72"
+}

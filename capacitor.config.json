@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "DocControl",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
